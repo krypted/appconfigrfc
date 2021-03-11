@@ -626,7 +626,7 @@ Provider (IDP) using SAML or OAuth, or for an application to
 authenticate into a private on premises service.
 
 
-Application tunneling works by connecting an application o a VPN using
+Application tunneling works by connecting an application to a VPN using
 built-in per-app VPN functionality. The Per-App VPN might be hosted by
 the MDM or leverage existing infrastructure. The Per-App VPN
 functionality is deployed using a profile and the device then connects
