@@ -1,13 +1,10 @@
-Network Working Group                         C. Edge
-INTERNET-DRAFT Request for Comments: draft-edge-appconfig-00.txt
-Category: Standards Track                     March 2021 
-latest revision 2021-03-10                    Expiration July 2021
+Network Working Group                                       C. Edge
+INTERNET-DRAFT                                  	
+Intended Status: Request for Comments 	           11  March 2021 
+Expires: July 2021			
 
-
-
-
-AppConfig as the Mobile Application Configuration Protocol for
-configuring application settings on mobile devices
+                    AppConfig for Mobile Applications
+                       draft-edge-appconfig-00.txt
 
 
 Status of This Memo
@@ -54,7 +51,7 @@ of BCP 78 and BCP 79.
 
 
 
-Edge, et al.               Standards Track                     [Page 1]
+C. Edge               Standards Track                     [Page 1]
 
 RFC XXXX          AppConfig for Mobile Applications          March 2021
 
@@ -851,13 +848,12 @@ Edge, et al.               Standards Track                    [Page 22]
 
 RFC XXXX          AppConfig for Mobile Applications          March 2021
 
-Author's Address
-
+Authors' Address
 
    Charles Edge 
-   Jamf 
-   100 S Washington Ave #1100 Minneapolis, MN 55418 US
-   
+   Jamf
+   100 S Washington Ave 1100
+   Minneapolis, MN 55418 US
    Phone: +1 612 581 6602 
    Email: krypted@jamf.com
 
@@ -871,32 +867,37 @@ Author's Address
 
    Paul Cerat 
    Microsoft 
-   One Microsoft Way Redmond, WA 98052 US Phone: +1
+   One Microsoft Way 
+   Redmond, WA 98052 US Phone: +1
    425 882 8080 
    EMail: andrew.cerat@microsoft.com
 
 
    Anuj Goyal 
    Google 
-   1600 Amphitheatre Parkway Mountain View, California 
+   1600 Amphitheatre Parkway 
+   Mountain View, California 
    Email: goanuj@google.com
 
 
    Sam Weiss 
    Jamf 
-   100 S Washington Ave #1100 Minneapolis, MN 55418 US
+   100 S Washington Ave #1100 
+   Minneapolis, MN 55418 US
    EMail: sam.weiss@jamf.com
 
 
    James Felton 
    Jamf 
-   100 S Washington Ave #1100 Minneapolis, MN 55418 US
+   100 S Washington Ave #1100 
+   Minneapolis, MN 55418 US
    EMail: james.felton@jamf.com
 
 
    Kalyan Vishnubhotla 
    MobileIron 
-   490 E Middlefield Rd Mountain View, CA
+   490 E Middlefield Rd 
+   Mountain View, CA
    94043 US 
    EMail: vkalyan@mobileiron.com
 
