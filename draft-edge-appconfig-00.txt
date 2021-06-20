@@ -865,12 +865,12 @@ Authors' Address
    EMail: bwhiteman@apple.com
 
 
-   Paul Cerat 
-   Microsoft 
-   One Microsoft Way 
-   Redmond, WA 98052 US Phone: +1
-   425 882 8080 
-   EMail: andrew.cerat@microsoft.com
+   Oscar Rambaldini
+   SOTI
+   6975 Creditview Rd, Unit 4
+   Mississauga, Ontario
+   L5N 8E9 Canada
+   Email: oscar.rambaldini@soti.net
 
 
    Anuj Goyal 
